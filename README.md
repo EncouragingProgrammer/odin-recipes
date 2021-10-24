@@ -3,4 +3,4 @@ My name is Ryan and I've been working through the Odin project as a way to suppl
 About this project: 
 This is the first major project which involves developing a recipe website. In this first version of the website, I will be primarly focusing on the HTML elements with the intention of adding CSS later on. Through this process I am also working on intentional practice with Linux and github.
 Current progress:
-Getting the project setup in a github repository. 
+Oct 24, 2021 Getting the project setup in a github repository. Created the index.html file with 3 recipe files.
